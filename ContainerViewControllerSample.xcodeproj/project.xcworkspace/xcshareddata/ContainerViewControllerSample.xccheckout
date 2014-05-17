@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F64BB44E-0775-422C-84E4-24043C41C9A7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ContainerViewControllerSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4C758CAF-35E0-4DC2-A5A9-2213F036949E</key>
+		<string>ssh://github.com/dunkeyike/KJ-Code_ALL.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ContainerViewControllerSample/ContainerViewControllerSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4C758CAF-35E0-4DC2-A5A9-2213F036949E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/dunkeyike/KJ-Code_ALL.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4C758CAF-35E0-4DC2-A5A9-2213F036949E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4C758CAF-35E0-4DC2-A5A9-2213F036949E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KJ-Code_ALL</string>
+		</dict>
+	</array>
+</dict>
+</plist>
